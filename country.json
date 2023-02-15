@@ -1,0 +1,37 @@
+{
+  "countries": [
+    {
+      "countryName": "USA",
+      "countryCapital": "washington DC",
+      "language": "America english",
+      "id": "1"
+    },
+    {
+      "countryName": "England",
+      "countryCapital": "london",
+      "language": "British english",
+      "id": "2"
+    },
+    {
+      "countryName": "France",
+      "countryCapital": "paris",
+      "language": "french",
+      "id": "3"
+    },
+    {
+      "countryName": "Germany",
+      "countryCapital": "berlin",
+      "language": "german",
+      "id": "4"
+    },
+    {
+      "countryName": "Belgium",
+      "countryCapital": "brussels",
+      "language": "dutch, french, german",
+      "id": "5"
+    },
+    {
+      "id": "cpyP7zq"
+    }
+  ]
+}
